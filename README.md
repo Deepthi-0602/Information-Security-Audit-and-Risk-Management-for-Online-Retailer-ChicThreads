@@ -18,7 +18,7 @@ To conduct a comprehensive information security audit and risk management assess
   - Threat Profile (Excel)(https://github.com/Deepthi-0602/Information-Security-Audit-and-Risk-Management-for-Online-Retailer-ChicThreads/blob/main/Threat_Profile.xlsx)
 
 - **Audit_Tools/**
-  - ISO 27001 Audit Checklist (Excel)
+  - ISO 27001 Audit Checklist (Excel)(https://github.com/Deepthi-0602/Information-Security-Audit-and-Risk-Management-for-Online-Retailer-ChicThreads/blob/main/ISO27001_Audit_Checklist.xlsx)
 
 ## 🛡️ Key Areas Covered
 
