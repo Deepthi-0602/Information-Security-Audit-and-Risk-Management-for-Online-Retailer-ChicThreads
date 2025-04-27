@@ -32,8 +32,12 @@ To conduct a comprehensive information security audit and risk management assess
 
 ## 🏆 Outcome
 
-The audit highlighted critical risks and provided a detailed roadmap for improving the organization's cybersecurity posture.
+The Information Security Audit successfully identified several critical cybersecurity vulnerabilities within ChicThreads’ online retail operations, including weak password policies, lack of multi-factor authentication (MFA), insecure use of public Wi-Fi, outdated antivirus software, and missing incident response plans.
+
+Based on the findings, a comprehensive risk register and actionable recommendations were developed to improve the organization’s security posture. These improvements aim to protect sensitive customer data, secure online transactions, enhance employee security practices, and establish formal incident response and backup procedures.
+
+The project provides a detailed roadmap for ChicThreads to achieve better cybersecurity resilience following ISO 27001 standards.
 
 ---
 
-*Prepared by: Deepthi M.*
+*Prepared by: Deepthi M..*
