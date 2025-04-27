@@ -40,4 +40,4 @@ The project provides a detailed roadmap for ChicThreads to achieve better cybers
 
 ---
 
-*Prepared by: Deepthi M..*
+*Prepared by: Deepthi M*
