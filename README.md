@@ -12,7 +12,7 @@ To conduct a comprehensive information security audit and risk management assess
 ## 📚 Project Structure
 
 - **Report/**
-  - Full Information Security Audit Report (Word Document)
+  - Full Information Security Audit Report (Word Document)(https://github.com/Deepthi-0602/Information-Security-Audit-and-Risk-Management-for-Online-Retailer-ChicThreads/blob/main/Cyber_Risk_Register.xlsx)
 
 - **Risk_Assessment/**
   - Cyber Risk Register (Excel)
