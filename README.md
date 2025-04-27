@@ -15,7 +15,7 @@ To conduct a comprehensive information security audit and risk management assess
   - Full Information Security Audit Report (Word Document)
 - **Risk_Assessment/**
   - Cyber Risk Register (Excel)(https://github.com/Deepthi-0602/Information-Security-Audit-and-Risk-Management-for-Online-Retailer-ChicThreads/blob/main/Cyber_Risk_Register.xlsx)
-  - Threat Profile (Excel)
+  - Threat Profile (Excel)(https://github.com/Deepthi-0602/Information-Security-Audit-and-Risk-Management-for-Online-Retailer-ChicThreads/blob/main/Threat_Profile.xlsx)
 
 - **Audit_Tools/**
   - ISO 27001 Audit Checklist (Excel)
